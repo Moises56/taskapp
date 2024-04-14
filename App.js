@@ -8,6 +8,8 @@ import TaskFormScreen from "./screens/TaskFormScreen";
 
 const Stack = createNativeStackNavigator();
 
+//gererar
+
 
 const App = () => {
   return (
